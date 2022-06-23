@@ -12,4 +12,3 @@ The challenge is to build out this order summary card and get it looking as clos
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- CSS Variables
